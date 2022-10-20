@@ -2,8 +2,6 @@
 
 <h2 align="center">Hello, I'm Dody ! Iam a junior web app developer</h2>
 
-###
-
 <img src="https://raw.githubusercontent.com/mdodeep/mdodeep/blob/output/snake.svg" alt="Snake animation" />
 
 ###
@@ -40,6 +38,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
 </div>
-
-###
-Profile Readme Generator
