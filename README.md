@@ -1,6 +1,10 @@
+<h1 align="center">Hello, I'm Dody ! Iam a junior web app developer</h1>
+
+###
+
 <br clear="both">
 
-<h2 align="center">Hello, I'm Dody ! Iam a junior web app developer</h2>
+<img src="https://raw.githubusercontent.com/mdodeep/mdodeep/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -27,12 +31,18 @@
 
 ###
 
+<p align="left">My Stack</p>
+
+###
+
 <br clear="both">
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="php logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" width="52" alt="apache logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
 </div>
+
+###
