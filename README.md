@@ -2,8 +2,6 @@
 
 <h2 align="center">Hello, I'm Dody ! Iam a junior web app developer</h2>
 
-<img src="https://raw.githubusercontent.com/mdodeep/mdodeep/blob/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="center">
