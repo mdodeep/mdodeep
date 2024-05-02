@@ -1,6 +1,5 @@
 [![Header](https://raw.githubusercontent.com/mdodeep/mdodeep/main/header-mdodeep-github.png "Header")](https://mdody.com/)
 # Hello, Friends ! <img src="https://raw.githubusercontent.com/mdodeep/mdodeep/main/wave-hand.gif" width="30px" height="30px" />
-My name is Muhammad Dody Pratama, a Fresh Graduate from Gunadarma University with a GPA of 3.43 who lives in Jakarta, Indonesia and was born in Jakarta on December 29, 2000 (22 years old).
 
 ![](https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=0082f8)
 ![](https://img.shields.io/badge/Browser-Google%20Chrome-informational?style=flat&logo=googlechrome&logoColor=white&color=0082f8)
