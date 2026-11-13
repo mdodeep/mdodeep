@@ -1,4 +1,4 @@
-[![Muhammad Dody Pratama, Junior Backend Developer](https://raw.githubusercontent.com/mdodeep/mdodeep/main/header-mdodeep-github.png "mdody.com")](https://mdody.com/)
+[![Muhammad Dody Pratama, Junior Backend Developer](https://raw.githubusercontent.com/mdodeep/mdodeep/main/header-mdodeep-github.webp "dodypratama.my.id")](https://dodypratama.my.id/)
 
 # Hello, Friends! <img src="https://raw.githubusercontent.com/mdodeep/mdodeep/main/wave-hand.gif" width="30" height="30" alt="Waving hand" />
 
